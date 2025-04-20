@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Haroon-sPortfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Haroon-sPortfolio/static/js/main.07c01bce.js",
+    "main.js": "/Haroon-sPortfolio/static/js/main.eb972c41.js",
     "static/media/HeroImage.jpg": "/Haroon-sPortfolio/static/media/HeroImage.d7e60ad6f08e047f1fdb.jpg",
     "index.html": "/Haroon-sPortfolio/index.html",
     "main.bf538fe7.css.map": "/Haroon-sPortfolio/static/css/main.bf538fe7.css.map",
-    "main.07c01bce.js.map": "/Haroon-sPortfolio/static/js/main.07c01bce.js.map"
+    "main.eb972c41.js.map": "/Haroon-sPortfolio/static/js/main.eb972c41.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.07c01bce.js"
+    "static/js/main.eb972c41.js"
   ]
 }
