@@ -1,7 +1,7 @@
 {
   "name": "haroon-ahmed-portfolio",
   "version": "0.1.0",
-  "homepage": "https://haroon-developerr.github.io",
+  "homepage":"https://haroon-developerr.github.io/Haroon-sPortfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
